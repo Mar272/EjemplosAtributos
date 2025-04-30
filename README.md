@@ -17,4 +17,4 @@ Este repositorio contiene ejemplos prácticos del uso de atributos en C#, tanto 
 
 - `AtributosCustom.cs`: Archivo independiente con dos atributos personalizados:
   - `DescripcionAttribute`: Permite agregar una descripción a una clase.
-  - `CambiosAttribute`: Indica si una clase debe registrar cambios en base de datos
+  - `CambiosAttribute`: Este atributo indica si se deben registrar cambios en una clase.
